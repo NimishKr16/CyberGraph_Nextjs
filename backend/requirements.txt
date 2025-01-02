@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-motor         # Async MongoDB Driver
-python-dotenv # Environment variable management
-pydantic      # Data validation
-websockets    # WebSocket support
